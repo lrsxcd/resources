@@ -37,7 +37,7 @@ The document will contain resources we are using to learn or experient with tech
 [clojurescript tutorial react front end](https://www.toptal.com/clojure/clojurescript-tutorial-react-front-end)
 
 #### frameworks
-[A ClojureScript UI framework and client/server architecture over Facebook's React.](https://github.com/omcljs/om)
+[OM - A ClojureScript UI framework and client/server architecture over Facebook's React.](https://github.com/omcljs/om)
 
 ### cljs native
 [ClojureScript + React Native](https://cljsrn.org/)
