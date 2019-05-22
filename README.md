@@ -14,7 +14,7 @@ The document will contain resources we are using to learn or experient with tech
 ## clojure
 ### Installation and tools
 
-(development tools)(https://practicalli.github.io/clojure/development-tools/)
+[development tools](https://practicalli.github.io/clojure/development-tools/)
 
 ### books and resources
 
@@ -26,12 +26,16 @@ The document will contain resources we are using to learn or experient with tech
 
 
 ### cljs - getting started
-[quick start] (https://clojurescript.org/guides/quick-start)
-[clojure script koans](http://clojurescriptkoans.com/)
+
+[quick start](https://clojurescript.org/guides/quick-start)
+
+[clojure script koans](http://clojurescriptkoans.com/ )
 
 
 ### cljs - front end
-[clojurescript tutorial react front end] (https://www.toptal.com/clojure/clojurescript-tutorial-react-front-end)
+
+[clojurescript tutorial react front end](https://www.toptal.com/clojure/clojurescript-tutorial-react-front-end)
+
 #### frameworks
 [A ClojureScript UI framework and client/server architecture over Facebook's React.](https://github.com/omcljs/om)
 
