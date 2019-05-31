@@ -19,10 +19,16 @@ This document will include resources that are used for our workshops
 ## Workshop 2 - Web development with clojure
 
 
-####Tutorial - reagent 
+#### Tutorial - reagent 
 
 (web with clojure script and reagent)[https://www.youtube.com/watch?v=wq6ctyZBb0A]
 
+
+#### (hiccups)[https://github.com/teropa/hiccups]
+
+hiccups will be used in any web development with clojure in this workshop 
+
+learn the basics.
 
 #### devtools dirac
 
@@ -59,6 +65,9 @@ lein new reagent client-server
 re-frame is a framework over reagent
 
 We are not sure we are going to use it but it is important to know it exisits and the problem it is trying to solve
+
+1. add an input component with event handler on-change 
+
 
 
 ##### re-com(re-com) [https://github.com/Day8/re-com]
