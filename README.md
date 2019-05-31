@@ -32,7 +32,7 @@ The document will contain resources we are using to learn or experient with tech
 [clojure script koans](http://clojurescriptkoans.com/ )
 
 
-### cljs - front end
+### cljs - front end 
 
 [clojurescript tutorial react front end](https://www.toptal.com/clojure/clojurescript-tutorial-react-front-end)
 
